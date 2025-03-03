@@ -13,8 +13,8 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.List;
 
-import static br.com.dio.persistence.entity.BoardColumnKindEnum.CANCEL;
-import static br.com.dio.persistence.entity.BoardColumnKindEnum.FINAL;
+import static org.example.persistence.entity.BoardColumnKindEnum.CANCEL;
+import static org.example.persistence.entity.BoardColumnKindEnum.FINAL;
 
 
 @AllArgsConstructor

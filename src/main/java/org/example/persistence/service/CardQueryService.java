@@ -1,7 +1,7 @@
 package org.example.persistence.service;
 
-import br.com.dio.dto.CardDetailsDTO;
-import br.com.dio.persistence.dao.CardDAO;
+import org.example.dto.CardDetailsDTO;
+import org.example.persistence.dao.CardDAO;
 import lombok.AllArgsConstructor;
 
 import java.sql.Connection;

@@ -1,6 +1,6 @@
 package org.example.persistence.dao;
 
-import br.com.dio.dto.BoardColumnDTO;
+import org.example.dto.BoardColumnDTO;
 import org.example.persistence.entity.BoardColumnEntity;
 import org.example.persistence.entity.CardEntity;
 import com.mysql.cj.jdbc.StatementImpl;
